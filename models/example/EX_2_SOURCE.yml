@@ -1,0 +1,7 @@
+sources:
+  - name: Source_SCD
+    database: TRAINING  
+    schema: DBT_ROHITHCHEEDELLA183  
+    tables:
+      - name: SRC_SCD2
+      - name: product_sales

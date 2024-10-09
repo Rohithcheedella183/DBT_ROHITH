@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: AVG_goal_match
+    description: "The above mentioned table stores avg goals taken per match"
+    columns:
+      - name: TEAMNAME
+        description: "The above column name indicates the Hockey team name"
+      - name: NO_OF_GOALS
+        description: "The above column name indicates the Number of goals taken"

@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: SRC_Hockey
+    database: HOCKEYDB  
+    schema: HOCKEY  
+    tables:
+      - name: SCORING
+      - name: TEAMS
+
+      - name: SCORINGSC
+      - name: Coaches
+      - name: SRC_SCD2
+      - name: Master
+
